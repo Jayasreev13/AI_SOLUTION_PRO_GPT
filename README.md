@@ -1,5 +1,5 @@
 # AI_SOLUTION_PRO_GPT
-This is a GPT-based AI Solution Pro Application
+This is a GPT-based AI Solution Pro Application developed to answer all about AI and the option of Flag is provided to save the response from the application.
 
 # Steps to deploy as an application
 
